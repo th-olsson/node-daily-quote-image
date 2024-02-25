@@ -1,0 +1,16 @@
+{
+  "name": "daily-quote-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "start": "node index.js"
+  },
+  "author": "Thomas Olsson",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^3.0.3",
+    "text-to-image": "^5.2.0"
+  }
+}
